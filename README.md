@@ -9,7 +9,7 @@ hi, i'm <b>Mohindar Amarnadh</b> ,a Master’s in Computer Science graduate from
 
 At PTC, I optimized LLM inference pipelines across NVIDIA A100/H100 GPUs using CUDA, Triton, and vLLM—reducing latency by 35% and improving throughput for 7B+ parameter models. I contributed to compiler-level performance tuning (GGML/GGUF, TensorRT) and enabled cross-architecture inference across x86, CUDA, and Metal, improving model execution efficiency.
 <br></br>
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how blockchain helps in democratizing content creation and eliminating the middleman.
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love things like how GPU's work and making then even more efficient by using optimization techniques.
 <br></br>
 
 <b>Currently ,</b>i am looking for a Job as <b>Software Engineer – AI Systems & GPU Optimization</b>

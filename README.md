@@ -5,7 +5,9 @@
 
 <br />
 <br></br>
-hi, i'm <b>Mohindar Amarnadh</b> , a passionate self-taught web3 developer and a freelance software engineer from india. my passion for coding lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm <b>Mohindar Amarnadh</b> , I’m a Master’s in Computer Science graduate from Wright State University with 5+ years of experience in machine learning engineering, model optimization, and GPU-accelerated systems. My focus is on building and scaling ML platforms that make training and inference faster, more efficient, and ready for production.
+
+At PTC, I optimized LLM inference pipelines across NVIDIA A100/H100 GPUs using CUDA, Triton, and vLLM—reducing latency by 35% and improving throughput for 7B+ parameter models. I contributed to compiler-level performance tuning (GGML/GGUF, TensorRT) and enabled cross-architecture inference across x86, CUDA, and Metal, improving model execution efficiency.
 <br></br>
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how blockchain helps in democratizing content creation and eliminating the middleman.
 <br></br>

@@ -5,7 +5,7 @@
 
 <br />
 <br></br>
-hi, i'm <b>Mohindar Amarnadh</b> , I’m a Master’s in Computer Science graduate from Wright State University with 5+ years of experience in machine learning engineering, model optimization, and GPU-accelerated systems. My focus is on building and scaling ML platforms that make training and inference faster, more efficient, and ready for production.
+hi, i'm <b>Mohindar Amarnadh</b> ,a Master’s in Computer Science graduate from Wright State University with 5+ years of experience in machine learning engineering, model optimization, and GPU-accelerated systems. My focus is on building and scaling ML platforms that make training and inference faster, more efficient, and ready for production.
 
 At PTC, I optimized LLM inference pipelines across NVIDIA A100/H100 GPUs using CUDA, Triton, and vLLM—reducing latency by 35% and improving throughput for 7B+ parameter models. I contributed to compiler-level performance tuning (GGML/GGUF, TensorRT) and enabled cross-architecture inference across x86, CUDA, and Metal, improving model execution efficiency.
 <br></br>

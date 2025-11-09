@@ -12,10 +12,10 @@ At PTC, I optimized LLM inference pipelines across NVIDIA A100/H100 GPUs using C
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love things like how GPU's work and making then even more efficient by using optimization techniques.
 <br></br>
 
-<b>Currently ,</b>i am looking for a Job as
+<b>Currently ,</b>i am looking for a Job as <b>Software Engineer – AI Systems & GPU Optimization</b>
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
 
 - 📝 follow my <b>Blog's and Articles</b> for more GPU stuff in,  [Medium](https://medium.com/@d.mohindar1999) and [Linkedin](https://www.linkedin.com/in/mohindar-amarnadh/)
 - 💼 any freelance work? do reach, [email](mailto:d.mohindar1999@gmail.com) :)

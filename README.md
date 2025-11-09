@@ -37,12 +37,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-Python     15 hrs 56 mins  ██████████████████░░░░░░░   64.53 %
-CUDA        6 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   23.08 %
-GPU        5 hrs 20 min     ██████▓░░░░░░░░░░░░░░░░░░   20.08 %
-LLM's          2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   8.10 %
+Python  15 hrs 56 mins  ██████████████████░░░░░░░   64.53 %
+CUDA    6 hrs 1 min     ██████▓░░░░░░░░░░░░░░░░░░   23.08 %
+GPU     5 hrs 20 min     ██████▓░░░░░░░░░░░░░░░░░░   20.08 %
+LLM's   2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   8.10 %
 ML/AI   1hrs 15 min     █░░░░░░░░░░░░░░░░░░░░░░░░   4.16 %
-Analytics         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Analytics 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->

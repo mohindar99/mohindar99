@@ -65,7 +65,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  Become a <b>ETH</b> Developer...           
+🏆  Become a <b>AI or GPU Optimzation </b> Engineer ...           
 🌸  Engage in research activities       
 ✅  Long way to go           
 ⏳  Longest streak is 11 days
